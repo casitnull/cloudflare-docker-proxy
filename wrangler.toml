@@ -15,7 +15,7 @@ TARGET_UPSTREAM = "https://registry-1.docker.io"
 CUSTOM_DOMAIN = "exmaple.com"
 
 [env.production]
-name = "cloudflare-docker-proxy"
+name = "casit-docker-proxy"
 # routes = [
 #   { pattern = "docker.d.always375.top", custom_domain = true },
 #   { pattern = "quay.d.always375.top", custom_domain = true },
